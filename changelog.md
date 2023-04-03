@@ -22,5 +22,5 @@ You can add a scope to your request to expose various account or profile informa
 HTML-formatted documentation added  
 `/docs`
 
-[Unreleased]: https://github.com/topshelfweb/service-template/compare/v0.0.1...HEAD
-[0.0.1]: https://github.com/topshelfweb/service-template/releases/tag/v0.0.1
+[Unreleased]: https://github.com/topshelfweb/auth-service/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/topshelfweb/auth-service/releases/tag/v0.0.1
