@@ -9,7 +9,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
 app.use(Router)
-app.use(express.static("docs"))
+app.use("/docs", express.static("docs"))
 
 app.listen(process.env.PORT, function(error) {
 	if (error) {

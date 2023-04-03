@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.2] - 2023-04-03
+
+### Changed
+
+- Updated documentation
+
 ## [0.0.1] - 2023-04-03
 
 ### Added
@@ -23,4 +29,5 @@ HTML-formatted documentation added
 `/docs`
 
 [Unreleased]: https://github.com/topshelfweb/auth-service/compare/v0.0.1...HEAD
+[0.0.2]: https://github.com/topshelfweb/auth-service/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/topshelfweb/auth-service/releases/tag/v0.0.1

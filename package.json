@@ -1,12 +1,12 @@
 {
   "name": "auth-service",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index",
     "dev": "env-cmd nodemon index",
-    "doc": "npx insomnia-documenter --config ./api-doc.json --output ./docs"
+    "doc": "npx insomnia-documenter --config ./auth-doc.json --output ./docs"
   },
   "keywords": [
     "authentication",
